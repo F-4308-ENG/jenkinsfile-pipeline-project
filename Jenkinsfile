@@ -7,6 +7,6 @@ pipeline {
                 sh 'echo using shell within Jenkinsfile'
                 echo 'not using shell in the beyefendi'
             }
-        }git 
+        }
     }
 }
